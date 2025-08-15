@@ -1,0 +1,11 @@
+{
+  "Version": "0.1",
+  "Message": "PATCHER-Jelenleg ez egy Teszt.\n\nAlapverzió.\nManifest fájl lekérése és betöltése sikeres.",
+  "Files": [
+    {
+      "Path": "Teszt/Teszt2",
+      "Hash": "hashihash",
+      "Size": 123
+    }
+  ]
+}
