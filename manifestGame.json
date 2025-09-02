@@ -3,6 +3,86 @@
   "Message": "Jelenleg ez egy Teszt.\n\nAlapverzió.\nManifest fájl lekérése és betöltése sikeres.",
   "Files": [
     {
+      "Path": "SoAB.exe",
+      "Hash": "f7c0b4199c58c46d8db8f7ac0892c05b845f8fc0",
+      "Size": 168448
+    },
+    {
+      "Path": "Engine/Config/StagedBuild_SoAB.ini",
+      "Hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "Size": 0
+    },
+    {
+      "Path": "Engine/Binaries/Win64/EOSSDK-Win64-Shipping.dll",
+      "Hash": "1dbba4494a66bdccbbe83f32a11c400288be2c2e",
+      "Size": 18287840
+    },
+    {
+      "Path": "Engine/Content/Renderer/TessellationTable.bin",
+      "Hash": "3a3402ca2d3531ab8352c818ea1181288bd78c72",
+      "Size": 259568
+    },
+    {
+      "Path": "Engine/Extras/GPUDumpViewer/GPUDumpViewer.html",
+      "Hash": "1dcd420a34b4a53a456b652d72b737cd5c35dd70",
+      "Size": 187346
+    },
+    {
+      "Path": "Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat",
+      "Hash": "91b109182fdcbda1e523d39f03e0812da29964f3",
+      "Size": 879
+    },
+    {
+      "Path": "Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh",
+      "Hash": "f00e4e61c907ba56b8a1886a85a68047e7d9ccb9",
+      "Size": 2165
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/boost_atomic-mt-x64.dll",
+      "Hash": "035ce056ec90e1e8e17de23f0a1784d544963576",
+      "Size": 38680
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/boost_chrono-mt-x64.dll",
+      "Hash": "3343654ec5c71b39f77fbfca0e49e388e335d3a7",
+      "Size": 56600
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/boost_filesystem-mt-x64.dll",
+      "Hash": "64b5b51b3d39d7b42e1dab2cc82ffa0a1aeb85da",
+      "Size": 161560
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/boost_iostreams-mt-x64.dll",
+      "Hash": "c3a70d22b07d01f525dcd7ea466e196eea3708e7",
+      "Size": 69912
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/boost_program_options-mt-x64.dll",
+      "Hash": "a979860a2a28a12ec758bdb3eb6edf9c77a4d8ad",
+      "Size": 372504
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/boost_python311-mt-x64.dll",
+      "Hash": "c39271f2944455be40c86a0005e17ccb7d321f90",
+      "Size": 213784
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/boost_regex-mt-x64.dll",
+      "Hash": "966ad36dd98894a1aa1e1cfcc7cc44c347327707",
+      "Size": 255768
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/boost_system-mt-x64.dll",
+      "Hash": "763a28689ec96133273183c013546e74af273a3b",
+      "Size": 30992
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/boost_thread-mt-x64.dll",
+      "Hash": "a4b388ab56ab75f3659d4ff3e97f07de0143bace",
+      "Size": 95512
+    },
+    {
       "Path": "SoAB/Binaries/Win64/SoAB.exe",
       "Hash": "d70b62f17934ac2750b97c89e4611d41fea6fa66",
       "Size": 301156352
@@ -11,7 +91,211 @@
       "Path": "SoAB/Binaries/Win64/SoAB.pdb",
       "Hash": "1d28842f602e39f2b0a3bd255f0efbe32b1c1d93",
       "Size": 369242112
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/tbb.dll",
+      "Hash": "0ce68fbffa22479eedd8ba2ac0f47ba0ad3f17a3",
+      "Size": 234768
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/tbb.pdb",
+      "Hash": "f84aa9041f6d6782c8f18a50578682395f602171",
+      "Size": 3010560
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/tbbmalloc.dll",
+      "Hash": "2a217f4bea4c206290178d147b857c827455cd1b",
+      "Size": 76560
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/tbbmalloc.pdb",
+      "Hash": "1552d2e0026fa365b91f6c0b292a43e0b4aec2d2",
+      "Size": 1126400
+    },
+    {
+      "Path": "SoAB/Content/Paks/global.ucas",
+      "Hash": "1b8c1f3d16d557c192e5f502db57045e4b689fb9",
+      "Size": 2419872
+    },
+    {
+      "Path": "SoAB/Content/Paks/global.utoc",
+      "Hash": "802c84599d0dbceb66d7c7168e44be468e091f5a",
+      "Size": 638
+    },
+    {
+      "Path": "SoAB/Content/Paks/SoAB-Windows.pak",
+      "Hash": "3e68b9c1206f427930f35adadd2e85ad5175de39",
+      "Size": 10416548
+    },
+    {
+      "Path": "SoAB/Content/Paks/SoAB-Windows.ucas",
+      "Hash": "e62024e5bf3a04968470a3d569e1b96d0b539b58",
+      "Size": 234157472
+    },
+    {
+      "Path": "SoAB/Content/Paks/SoAB-Windows.utoc",
+      "Hash": "070e78be8d5fab1a1087d204892d4916f4ef97aa",
+      "Size": 203232
+    },
+    {
+      "Path": "SoAB/Saved/Logs/SoAB-backup-2025.08.13-07.46.56.log",
+      "Hash": "4b7b16f5020b6b25406f926a8503742bbaad2cbd",
+      "Size": 91607
+    },
+    {
+      "Path": "SoAB/Saved/Logs/SoAB.log",
+      "Hash": "ab2f596665f565b7104dfd10ff15b7cb88529065",
+      "Size": 91398
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll",
+      "Hash": "83d06637bba210f2478ae64d9d750b0cb88bf32d",
+      "Size": 2243256
+    },
+    {
+      "Path": "Engine/Content/Slate/Cursor/invisible.cur",
+      "Hash": "b8133a27e01a74cd5936a544b4473e77d13da618",
+      "Size": 326
+    },
+    {
+      "Path": "Engine/Content/SlateDebug/Fonts/LastResort.tps",
+      "Hash": "57161fd8fcfc3e071179f48a9df67971c2dcc94b",
+      "Size": 930
+    },
+    {
+      "Path": "Engine/Content/SlateDebug/Fonts/LastResort.ttf",
+      "Hash": "e4cd182c152c7d50c0ca230c86033d63b3fbd057",
+      "Size": 5395052
+    },
+    {
+      "Path": "Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe",
+      "Hash": "1cda41b523fc3b1e31c49bc62b9754cdf88ecd45",
+      "Size": 50542848
+    },
+    {
+      "Path": "Engine/Saved/Config/Windows/Manifest.ini",
+      "Hash": "b1e6d0cda51fc9d88852d5dea33f7d793c1d3beb",
+      "Size": 25
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/D3D12/D3D12Core.dll",
+      "Hash": "62aae51a7247584f02a3be1b17bc944ed9586e23",
+      "Size": 3355456
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/D3D12/d3d12SDKLayers.dll",
+      "Hash": "88f49410d98ef165af174731fb53ee5033ecdeac",
+      "Size": 5794624
+    },
+    {
+      "Path": "SoAB/Binaries/Win64/DML/DirectML.dll",
+      "Hash": "e2fcd2bbc3701fe8364d2fea00aca1b439cd64fa",
+      "Size": 14042432
+    },
+    {
+      "Path": "SoAB/Saved/Config/Windows/GameUserSettings.ini",
+      "Hash": "de863ab4ae33228bc17d78e19b9a3bd70b88416b",
+      "Size": 1152
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.dll",
+      "Hash": "bdc0825f7937792790a9fd10052c670d2cdfb927",
+      "Size": 10192952
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.json",
+      "Hash": "e234ef88efeeae63afcd726972b64de634591a67",
+      "Size": 12828
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.dll",
+      "Hash": "fc982c2bc6ce5d5a8499906ab81c96cac94df560",
+      "Size": 3975736
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.json",
+      "Hash": "6cba90eeb7b4c04577a354a38a0da4ec524d536a",
+      "Size": 27194
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.dll",
+      "Hash": "5fc4bdc9df7314685af71a0727c812be69a061a2",
+      "Size": 1544248
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.json",
+      "Hash": "c219ded6a8042c45d949be3417715d5e6827078d",
+      "Size": 69719
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.dll",
+      "Hash": "43ab1739b95bb19d527ec17c1d92dcd446e54c80",
+      "Size": 335928
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.json",
+      "Hash": "db90000c34a1169999412e9c7c96302a349a4e0a",
+      "Size": 1910
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.dll",
+      "Hash": "a6a44836ce58af28168e74b529b45eb131b3acbb",
+      "Size": 17444920
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.json",
+      "Hash": "337627013ff73487476e270379844b4f71164bd0",
+      "Size": 97711
+    },
+    {
+      "Path": "SoAB/Saved/Config/CrashReportClient/UECC-Windows-5147CE1846DB27E811859B91205E7EF5/CrashReportClient.ini",
+      "Hash": "e91750d0626797f182dc72bef3baa28558f79f12",
+      "Size": 160
+    },
+    {
+      "Path": "SoAB/Saved/Config/CrashReportClient/UECC-Windows-78F6D87E422713E8DB68DF9D3F647CB8/CrashReportClient.ini",
+      "Hash": "e91750d0626797f182dc72bef3baa28558f79f12",
+      "Size": 160
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll",
+      "Hash": "ec7deea51bab1800e9a03e4caf88ce8015dd393d",
+      "Size": 2557648
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",
+      "Hash": "537d50c718954b52f9dc8de9ebf2d53d5f5d5b4f",
+      "Size": 5453160
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
+      "Hash": "9430c6afc73f26ce339623308083d5582294cd67",
+      "Size": 70424
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
+      "Hash": "19339b181e9c26f51e29ca7d6356996cf89f86bf",
+      "Size": 59160
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
+      "Hash": "3bc45dc7def5c03c58fd9fdee95741c18f416126",
+      "Size": 1735448
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll",
+      "Hash": "4d6888a2c528a996abb8c9ecd43a20d925994e6e",
+      "Size": 79376
+    },
+    {
+      "Path": "Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll",
+      "Hash": "39e78f9f133fbd1bfd2b9fd9f6f12f08cee4fb2c",
+      "Size": 868720
+    },
+    {
+      "Path": "Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll",
+      "Hash": "a59d4b3f6346b597c26df4757e9e7a8d8dc82b85",
+      "Size": 13573448
     }
   ]
-
 }
