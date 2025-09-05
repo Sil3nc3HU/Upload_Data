@@ -1,6 +1,6 @@
 {
   "Version": "0.1",
-  "Message": "Jelenleg ez egy Teszt.\n\nAlapverzió.\nManifest fájl lekérése és betöltése sikeres.",
+  "Message": "Teszt 0.1\n",
   "Files": [
     {
       "Path": "SoAB.exe",
@@ -139,8 +139,8 @@
     },
     {
       "Path": "SoAB/Saved/Logs/SoAB.log",
-      "Hash": "ab2f596665f565b7104dfd10ff15b7cb88529065",
-      "Size": 91398
+      "Hash": "baa9315f47f8026730d65c1a0406e1ce20b2b25f",
+      "Size": 91527
     },
     {
       "Path": "Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll",
@@ -243,12 +243,7 @@
       "Size": 97711
     },
     {
-      "Path": "SoAB/Saved/Config/CrashReportClient/UECC-Windows-5147CE1846DB27E811859B91205E7EF5/CrashReportClient.ini",
-      "Hash": "e91750d0626797f182dc72bef3baa28558f79f12",
-      "Size": 160
-    },
-    {
-      "Path": "SoAB/Saved/Config/CrashReportClient/UECC-Windows-78F6D87E422713E8DB68DF9D3F647CB8/CrashReportClient.ini",
+      "Path": "SoAB/Saved/Config/CrashReportClient/UECC-Windows-8BA80CAD459CE1A7A49088827A4B1D5C/CrashReportClient.ini",
       "Hash": "e91750d0626797f182dc72bef3baa28558f79f12",
       "Size": 160
     },
@@ -294,4 +289,3 @@
     }
   ]
 }
-
