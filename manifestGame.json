@@ -138,11 +138,6 @@
       "Size": 203232
     },
     {
-      "Path": "SoAB/Saved/Logs/SoAB-backup-2025.08.13-07.46.56.log",
-      "Hash": "4b7b16f5020b6b25406f926a8503742bbaad2cbd",
-      "Size": 91607
-    },
-    {
       "Path": "SoAB/Saved/Logs/SoAB.log",
       "Hash": "ab2f596665f565b7104dfd10ff15b7cb88529065",
       "Size": 91398
@@ -299,3 +294,4 @@
     }
   ]
 }
+
