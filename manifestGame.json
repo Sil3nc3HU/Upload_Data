@@ -4,8 +4,8 @@
   "Files": [
     {
       "Path": "SoAB.exe",
-      "Hash": "f7c0b4199c58c46d8db8f7ac0892c05b845f8fc0",
-      "Size": 168449 
+      "Hash": "f7c0b4199c58c46d8db8f7ac0892c05b845f8fc1",
+      "Size": 168448 
     },
     {
       "Path": "Engine/Config/StagedBuild_SoAB.ini",
@@ -289,6 +289,7 @@
     }
   ]
 }
+
 
 
 
